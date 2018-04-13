@@ -1,0 +1,582 @@
+{
+    "_id" : "9987,653,655",
+    "name" : " 手机 手机通讯 手机【行情 价格 评价 图片】- 京东",
+    "url" : "http://list.jd.com/list.html?cat=9987,653,655",
+    "good_num" : "9981",
+    "page_num" : "167",
+    "brand_list" : [ 
+        {
+            "title" : "华为（HUAWEI）",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F8557&sort=sort_commentcount_desc&trans=1&JL=3_品牌_华为（HUAWEI） ",
+            "brand_id" : "8557"
+        }, 
+        {
+            "title" : "小米（MI）",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F18374&sort=sort_commentcount_desc&trans=1&JL=3_品牌_小米（MI） ",
+            "brand_id" : "18374"
+        }, 
+        {
+            "title" : "Apple",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F14026&sort=sort_commentcount_desc&trans=1&JL=3_品牌_Apple ",
+            "brand_id" : "14026"
+        }, 
+        {
+            "title" : "魅族（MEIZU）",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F12669&sort=sort_commentcount_desc&trans=1&JL=3_品牌_魅族（MEIZU） ",
+            "brand_id" : "12669"
+        }, 
+        {
+            "title" : "三星（SAMSUNG）",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F15127&sort=sort_commentcount_desc&trans=1&JL=3_品牌_三星（SAMSUNG） ",
+            "brand_id" : "15127"
+        }, 
+        {
+            "title" : "诺基亚（NOKIA）",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F13539&sort=sort_commentcount_desc&trans=1&JL=3_品牌_诺基亚（NOKIA） ",
+            "brand_id" : "13539"
+        }, 
+        {
+            "title" : "OPPO",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F2032&sort=sort_commentcount_desc&trans=1&JL=3_品牌_OPPO ",
+            "brand_id" : "2032"
+        }, 
+        {
+            "title" : "vivo",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F25591&sort=sort_commentcount_desc&trans=1&JL=3_品牌_vivo ",
+            "brand_id" : "25591"
+        }, 
+        {
+            "title" : "360",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F27306&sort=sort_commentcount_desc&trans=1&JL=3_品牌_360 ",
+            "brand_id" : "27306"
+        }, 
+        {
+            "title" : "锤子（smartisan）",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F91515&sort=sort_commentcount_desc&trans=1&JL=3_品牌_锤子（smartisan） ",
+            "brand_id" : "91515"
+        }, 
+        {
+            "title" : "一加",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F63032&sort=sort_commentcount_desc&trans=1&JL=3_品牌_一加 ",
+            "brand_id" : "63032"
+        }, 
+        {
+            "title" : "努比亚（nubia）",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F27094&sort=sort_commentcount_desc&trans=1&JL=3_品牌_努比亚（nubia） ",
+            "brand_id" : "27094"
+        }, 
+        {
+            "title" : "小辣椒",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F18362&sort=sort_commentcount_desc&trans=1&JL=3_品牌_小辣椒 ",
+            "brand_id" : "18362"
+        }, 
+        {
+            "title" : "中兴（ZTE）",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F21011&sort=sort_commentcount_desc&trans=1&JL=3_品牌_中兴（ZTE） ",
+            "brand_id" : "21011"
+        }, 
+        {
+            "title" : "飞利浦（PHILIPS）",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F6742&sort=sort_commentcount_desc&trans=1&JL=3_品牌_飞利浦（PHILIPS） ",
+            "brand_id" : "6742"
+        }, 
+        {
+            "title" : "酷派（Coolpad）",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F10640&sort=sort_commentcount_desc&trans=1&JL=3_品牌_酷派（Coolpad） ",
+            "brand_id" : "10640"
+        }, 
+        {
+            "title" : "夏普（SHARP）",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F23130&sort=sort_commentcount_desc&trans=1&JL=3_品牌_夏普（SHARP） ",
+            "brand_id" : "23130"
+        }, 
+        {
+            "title" : "联想（Lenovo）",
+            "url" : "/list.html?cat=9987,653,655&ev=exbrand%5F11516&sort=sort_commentcount_desc&trans=1&JL=3_品牌_联想（Lenovo） ",
+            "brand_id" : "11516"
+        }
+    ],
+    "top_good_list" : [ 
+        {
+            "title" : "Apple iPhone 7 (A1660) 128G 黑色 移动联通电信4G手机",
+            "url" : "//item.jd.com/3133827.html",
+            "price" : "4799.00",
+            "commit_num" : "76万+",
+            "shop_name" : "京东Apple产品专营店",
+            "shop_url" : "//mall.jd.com/index-1000000127.html"
+        }, 
+        {
+            "title" : "Apple iPhone 6s Plus (A1699) 128G 玫瑰金色 移动联通电信4G手机",
+            "url" : "//item.jd.com/1861102.html",
+            "price" : "4299.00",
+            "commit_num" : "47万+",
+            "shop_name" : "京东Apple产品专营店",
+            "shop_url" : "//mall.jd.com/index-1000000127.html"
+        }, 
+        {
+            "title" : "小米 红米Note4 移动合约全网通版 3GB+64GB 灰色 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/3526236.html",
+            "price" : "1199.00",
+            "commit_num" : "33万+",
+            "shop_name" : "小米京东官方自营旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004123.html"
+        }, 
+        {
+            "title" : "华为 畅享6 金色 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/3888216.html",
+            "price" : "749.00",
+            "commit_num" : "45万+",
+            "shop_name" : "华为京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004259.html"
+        }, 
+        {
+            "title" : "荣耀8青春版 全网通 尊享版 4GB+64GB 幻海蓝",
+            "url" : "//item.jd.com/5105028.html",
+            "price" : "1599.00",
+            "commit_num" : "86万+",
+            "shop_name" : "荣耀京东自营旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000000904.html"
+        }, 
+        {
+            "title" : "魅族 魅蓝Note5 全网通公开版 3GB+32GB 星空灰 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/3728945.html",
+            "price" : "999.00",
+            "commit_num" : "17万+",
+            "shop_name" : "魅族京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000001952.html"
+        }, 
+        {
+            "title" : "小米 红米 4X 全网通版 2GB+16GB 香槟金 移动联通电信4G手机",
+            "url" : "//item.jd.com/4510588.html",
+            "price" : "699.90",
+            "commit_num" : "46万+",
+            "shop_name" : "小米京东官方自营旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004123.html"
+        }, 
+        {
+            "title" : "小米5s 全网通 高配版 3GB内存 64GB ROM 哑光金 移动联通电信4G手机",
+            "url" : "//item.jd.com/3701781.html",
+            "price" : "1899.00",
+            "commit_num" : "26万+",
+            "shop_name" : "小米京东官方自营旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004123.html"
+        }, 
+        {
+            "title" : "华为 P9 全网通 3GB+32GB版 流光金 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/2600210.html",
+            "price" : "2299.00",
+            "commit_num" : "7.7万+",
+            "shop_name" : "华为京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004259.html"
+        }, 
+        {
+            "title" : "小米5s Plus 大屏双摄手机 4GB+64GB 金色 全网通4G手机",
+            "url" : "//item.jd.com/3322621.html",
+            "price" : "1899.00",
+            "commit_num" : "13万+",
+            "shop_name" : "小米京东官方自营旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004123.html"
+        }, 
+        {
+            "title" : "Apple iPhone 6 32GB 金色 移动联通电信4G手机",
+            "url" : "//item.jd.com/4586850.html",
+            "price" : "2199.00",
+            "commit_num" : "46万+",
+            "shop_name" : "京东Apple产品专营店",
+            "shop_url" : "//mall.jd.com/index-1000000127.html"
+        }, 
+        {
+            "title" : "荣耀 V9 专属PC保护壳（透明）",
+            "url" : "//item.jd.com/3906365.html",
+            "price" : "299.00",
+            "commit_num" : "43万+",
+            "shop_name" : null,
+            "shop_url" : null
+        }, 
+        {
+            "title" : "守护宝 上海中兴 ZTE tech L580 老人手机  移动/联通 黑色",
+            "url" : "//item.jd.com/1466498777.html",
+            "price" : "338.00",
+            "commit_num" : "9.6万+",
+            "shop_name" : "君可安手机专营店",
+            "shop_url" : "//mall.jd.com/index-103369.html"
+        }, 
+        {
+            "title" : "Apple iPhone 7 Plus (A1661) 128G 黑色 移动联通电信4G手机",
+            "url" : "//item.jd.com/3133857.html",
+            "price" : "5799.00",
+            "commit_num" : "80万+",
+            "shop_name" : "京东Apple产品专营店",
+            "shop_url" : "//mall.jd.com/index-1000000127.html"
+        }, 
+        {
+            "title" : "21KE MC001S 黑色 移动联通2G 简单老人手机",
+            "url" : "//item.jd.com/1022456037.html",
+            "price" : "299.00",
+            "commit_num" : "8.2万+",
+            "shop_name" : "21克手机旗舰店",
+            "shop_url" : "//mall.jd.com/index-37135.html"
+        }, 
+        {
+            "title" : "小米Max2 大屏手机 4GB+64GB 金色 全网通4G手机 双卡双待",
+            "url" : "//item.jd.com/5159242.html",
+            "price" : "1499.00",
+            "commit_num" : "21万+",
+            "shop_name" : "小米京东官方自营旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004123.html"
+        }, 
+        {
+            "title" : "【分期用】Apple iPhone 7 (A1660) 32G 黑色 移动联通电信4G手机",
+            "url" : "//item.jd.com/5070734.html",
+            "price" : "4899.00",
+            "commit_num" : "12万+",
+            "shop_name" : "京东Apple产品专营店",
+            "shop_url" : "//mall.jd.com/index-1000000127.html"
+        }, 
+        {
+            "title" : "【分期用】Apple iPhone 7 Plus (A1661) 128G 黑色 移动联通电信4G手机",
+            "url" : "//item.jd.com/5070728.html",
+            "price" : "6599.00",
+            "commit_num" : "12万+",
+            "shop_name" : "京东Apple产品专营店",
+            "shop_url" : "//mall.jd.com/index-1000000127.html"
+        }, 
+        {
+            "title" : "【分期用】Apple iPhone 7 Plus (A1661) 32G 黑色 移动联通电信4G手机",
+            "url" : "//item.jd.com/5070738.html",
+            "price" : "5799.00",
+            "commit_num" : "11万+",
+            "shop_name" : "京东Apple产品专营店",
+            "shop_url" : "//mall.jd.com/index-1000000127.html"
+        }, 
+        {
+            "title" : "荣耀9 全网通 标配版 4GB+64GB 魅海蓝 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/5181380.html",
+            "price" : "2299.00",
+            "commit_num" : "93万+",
+            "shop_name" : "荣耀京东自营旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000000904.html"
+        }, 
+        {
+            "title" : "华为 G9 青春版 白色 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/2600242.html",
+            "price" : "849.00",
+            "commit_num" : "12万+",
+            "shop_name" : "华为京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004259.html"
+        }, 
+        {
+            "title" : "飞利浦（PHILIPS） E103 陨石黑 环保材质 超强震动 直板按键 移动联通2G 双卡双待 老人手机 学生备用功能机",
+            "url" : "//item.jd.com/1945514.html",
+            "price" : "99.00",
+            "commit_num" : "25万+",
+            "shop_name" : "飞利浦手机京东自营旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000013926.html"
+        }, 
+        {
+            "title" : "OPPO A57 3GB+32GB内存版 玫瑰金色 全网通4G手机 双卡双待",
+            "url" : "//item.jd.com/4143422.html",
+            "price" : "1099.00",
+            "commit_num" : "15万+",
+            "shop_name" : "OPPO手机京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004065.html"
+        }, 
+        {
+            "title" : "努比亚(nubia)【6+64GB】Z11 白金 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/5014204.html",
+            "price" : "1799.00",
+            "commit_num" : "5.1万+",
+            "shop_name" : "努比亚京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000001961.html"
+        }, 
+        {
+            "title" : "华为 HUAWEI P10 全网通 4GB+64GB 曜石黑 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/4483094.html",
+            "price" : "2988.00",
+            "commit_num" : "17万+",
+            "shop_name" : "华为京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004259.html"
+        }, 
+        {
+            "title" : "守护宝（上海中兴）U288+ 黑色 环保材质 直板按键 超长待机 移动联通2G 老人手机 学生备用功能机",
+            "url" : "//item.jd.com/2699502.html",
+            "price" : "158.00",
+            "commit_num" : "10万+",
+            "shop_name" : "上海中兴守护宝京东自营旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000083663.html"
+        }, 
+        {
+            "title" : "守护宝 上海中兴 ZTE tech  N1直板 老人手机 典雅红 移动/联通版",
+            "url" : "//item.jd.com/10519257099.html",
+            "price" : "138.00",
+            "commit_num" : "5.6万+",
+            "shop_name" : "华宇广诚手机专营店",
+            "shop_url" : "//mall.jd.com/index-180803.html"
+        }, 
+        {
+            "title" : "诺亚信（NOAIN） 5310i  移动/联通2G 老人手机 双卡双待 黑+蓝",
+            "url" : "//item.jd.com/1107459312.html",
+            "price" : "169.00",
+            "commit_num" : "4.5万+",
+            "shop_name" : "诺亚信手机旗舰店",
+            "shop_url" : "//mall.jd.com/index-57304.html"
+        }, 
+        {
+            "title" : "华为 HUAWEI nova 4GB+64GB版 香槟金（白）移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/3355143.html",
+            "price" : "1399.00",
+            "commit_num" : "17万+",
+            "shop_name" : "华为京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004259.html"
+        }, 
+        {
+            "title" : "华为 麦芒5 全网通 4GB+64GB版 香槟金 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/3234250.html",
+            "price" : "1399.00",
+            "commit_num" : "10万+",
+            "shop_name" : "华为京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004259.html"
+        }, 
+        {
+            "title" : "天语（K-Touch）T2老人手机 移动/联通2G 双卡双待 金色",
+            "url" : "//item.jd.com/10089815417.html",
+            "price" : "93.00",
+            "commit_num" : "5.6万+",
+            "shop_name" : "思创伟业手机专营店",
+            "shop_url" : "//mall.jd.com/index-166420.html"
+        }, 
+        {
+            "title" : "守护宝（上海中兴）L550 金色 直板按键 超长待机 移动联通2G 双卡双待老人手机 学生备用老年功能机",
+            "url" : "//item.jd.com/2870951.html",
+            "price" : "138.00",
+            "commit_num" : "5.9万+",
+            "shop_name" : "上海中兴守护宝京东自营旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000083663.html"
+        }, 
+        {
+            "title" : "华为 HUAWEI P10 Plus 6GB+64GB 曜石黑 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/4483072.html",
+            "price" : "3388.00",
+            "commit_num" : "10万+",
+            "shop_name" : "华为京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004259.html"
+        }, 
+        {
+            "title" : "华为 畅享6S 金色 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/4207732.html",
+            "price" : "899.00",
+            "commit_num" : "24万+",
+            "shop_name" : "华为京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004259.html"
+        }, 
+        {
+            "title" : "努比亚（nubia）Z17mini 雅黑色 6GB+64GB 全网通 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/4746262.html",
+            "price" : "1299.00",
+            "commit_num" : "12万+",
+            "shop_name" : "努比亚京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000001961.html"
+        }, 
+        {
+            "title" : "优思（Uniscope） US1 移动联通2G 老人手机 绿色",
+            "url" : "//item.jd.com/10076670714.html",
+            "price" : "148.00",
+            "commit_num" : "2.8万+",
+            "shop_name" : "华宇广诚手机专营店",
+            "shop_url" : "//mall.jd.com/index-180803.html"
+        }, 
+        {
+            "title" : "华为 Mate 9 Pro 4GB+64GB版 银钻灰 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/4193810.html",
+            "price" : "3299.00",
+            "commit_num" : "5.8万+",
+            "shop_name" : "华为京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004259.html"
+        }, 
+        {
+            "title" : "华为畅享7 Plus 4GB+64GB 香槟金 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/4884236.html",
+            "price" : "1499.00",
+            "commit_num" : "12万+",
+            "shop_name" : "华为京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004259.html"
+        }, 
+        {
+            "title" : "索爱 Z6 移动/联通  翻盖老人手机男 女 老年手机 金色",
+            "url" : "//item.jd.com/1785936823.html",
+            "price" : "239.00",
+            "commit_num" : "3.7万+",
+            "shop_name" : "索爱手机专卖店",
+            "shop_url" : "//mall.jd.com/index-121480.html"
+        }, 
+        {
+            "title" : "诺亚信（NOAIN） 5320I 移动/联通2G老人手机 双卡双待 黑+蓝",
+            "url" : "//item.jd.com/1111667716.html",
+            "price" : "139.00",
+            "commit_num" : "2.9万+",
+            "shop_name" : "诺亚信手机旗舰店",
+            "shop_url" : "//mall.jd.com/index-57304.html"
+        }, 
+        {
+            "title" : "21KE MC001S 白色 移动联通2G 简单老人手机",
+            "url" : "//item.jd.com/1022456996.html",
+            "price" : "299.00",
+            "commit_num" : "2.6万+",
+            "shop_name" : "21克手机旗舰店",
+            "shop_url" : "//mall.jd.com/index-37135.html"
+        }, 
+        {
+            "title" : "纽曼（Newman） L66 移动/联通 老人手机 黑色",
+            "url" : "//item.jd.com/1231344238.html",
+            "price" : "69.00",
+            "commit_num" : "4.9万+",
+            "shop_name" : "优星伟业手机专营店",
+            "shop_url" : "//mall.jd.com/index-82668.html"
+        }, 
+        {
+            "title" : "纽曼 （Newman）V18 移动/联通2G 三防直板老人手机 军绿色",
+            "url" : "//item.jd.com/10120639389.html",
+            "price" : "178.00",
+            "commit_num" : "2.5万+",
+            "shop_name" : "东旭优品手机专营店",
+            "shop_url" : "//mall.jd.com/index-114816.html"
+        }, 
+        {
+            "title" : "守护宝（上海中兴）L680 暮光黑 经典直板大声大字大按键 移动联通2G 老人手机 学生备用功能机",
+            "url" : "//item.jd.com/2883233.html",
+            "price" : "188.00",
+            "commit_num" : "3.5万+",
+            "shop_name" : "上海中兴守护宝京东自营旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000083663.html"
+        }, 
+        {
+            "title" : "长虹（CHANGHONG） GA958老人手机 移动/联通2G  双卡双待 红色",
+            "url" : "//item.jd.com/10024165684.html",
+            "price" : "99.00",
+            "commit_num" : "2.9万+",
+            "shop_name" : "长虹手机旗舰店",
+            "shop_url" : "//mall.jd.com/index-103698.html"
+        }, 
+        {
+            "title" : "誉品（YEPEN） YP99电霸 老人手机 移动/联通军工路虎 老年机三防直板双卡双待 军绿",
+            "url" : "//item.jd.com/1202626888.html",
+            "price" : "99.00",
+            "commit_num" : "4.3万+",
+            "shop_name" : "新迪恒数码专营店",
+            "shop_url" : "//mall.jd.com/index-56373.html"
+        }, 
+        {
+            "title" : "守护宝 上海中兴 ZTE tech   L660 翻盖老人手机 红色 移动/联通版",
+            "url" : "//item.jd.com/10920195423.html",
+            "price" : "218.00",
+            "commit_num" : "5.7万+",
+            "shop_name" : "优佳讯手机专营店",
+            "shop_url" : "//mall.jd.com/index-597569.html"
+        }, 
+        {
+            "title" : "小米Note2 曲面屏指纹识别手机 4GB+64GB 亮黑色 全网通4G手机 双卡双待",
+            "url" : "//item.jd.com/3984684.html",
+            "price" : "2099.00",
+            "commit_num" : "2.8万+",
+            "shop_name" : "小米京东官方自营旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004123.html"
+        }, 
+        {
+            "title" : "守护宝 上海中兴 ZTE tech L518 移动/联通 翻盖老人手机男 女备用老年手机 暮光黑",
+            "url" : "//item.jd.com/10119532340.html",
+            "price" : "228.00",
+            "commit_num" : "2.8万+",
+            "shop_name" : "一鼎轩手机专营店",
+            "shop_url" : "//mall.jd.com/index-148131.html"
+        }, 
+        {
+            "title" : "华为 HUAWEI nova 青春版 4GB+64GB 樱语粉 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/3893501.html",
+            "price" : "1499.00",
+            "commit_num" : "9.6万+",
+            "shop_name" : "华为京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004259.html"
+        }, 
+        {
+            "title" : "守护宝（上海中兴）L580 黑色 直板按键 超长待机 移动联通2G 老人手机 学生备用商务功能机",
+            "url" : "//item.jd.com/5097658.html",
+            "price" : "199.00",
+            "commit_num" : "10万+",
+            "shop_name" : "上海中兴守护宝京东自营旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000083663.html"
+        }, 
+        {
+            "title" : "中兴(ZTE Health) 健康 L628 移动/联通 三防直板老人手机老年手机超长待机 橙色",
+            "url" : "//item.jd.com/10424732616.html",
+            "price" : "238.00",
+            "commit_num" : "2.2万+",
+            "shop_name" : "创鑫伟业手机专营店",
+            "shop_url" : "//mall.jd.com/index-184371.html"
+        }, 
+        {
+            "title" : "摩托罗拉 Moto Z 4GB+64GB 模块化手机 流金黑 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/3499302.html",
+            "price" : "1999.00",
+            "commit_num" : "1.9万+",
+            "shop_name" : "摩托罗拉手机京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000004082.html"
+        }, 
+        {
+            "title" : "三星 Galaxy C5（SM-C5000）4GB+32GB 枫叶金 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/2868393.html",
+            "price" : "1299.00",
+            "commit_num" : "5.4万+",
+            "shop_name" : "三星手机京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000003443.html"
+        }, 
+        {
+            "title" : "飞利浦（PHILIPS） E106 石墨黑 环保材质 防尘防滑 直板按键 移动联通2G 双卡双待 老人手机 学生备用功能机",
+            "url" : "//item.jd.com/3889169.html",
+            "price" : "99.00",
+            "commit_num" : "20万+",
+            "shop_name" : "飞利浦手机京东自营旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000013926.html"
+        }, 
+        {
+            "title" : "小米（MI） 小米4A 红米4A 4G手机 香槟金 公开全网通(2G RAM+16G ROM)",
+            "url" : "//item.jd.com/10932167751.html",
+            "price" : "513.00",
+            "commit_num" : "3.7万+",
+            "shop_name" : "牧申手机旗舰店",
+            "shop_url" : "//mall.jd.com/index-178287.html"
+        }, 
+        {
+            "title" : "魅族 PRO6S 4GB+64GB 全网通公开版 香槟金 移动联通电信4G手机 双卡双待",
+            "url" : "//item.jd.com/3458059.html",
+            "price" : "1299.00",
+            "commit_num" : "7.3万+",
+            "shop_name" : "魅族京东自营官方旗舰店",
+            "shop_url" : "//mall.jd.com/index-1000001952.html"
+        }, 
+        {
+            "title" : "守护宝 上海中兴 ZTE tech L610 电信老人手机男 女款直板老年手机 黑色 老年电信版",
+            "url" : "//item.jd.com/10313714644.html",
+            "price" : "238.00",
+            "commit_num" : "1.5万+",
+            "shop_name" : "创鑫伟业手机专营店",
+            "shop_url" : "//mall.jd.com/index-184371.html"
+        }, 
+        {
+            "title" : "纽曼（Newman） C5 电信 老人手机 蓝色",
+            "url" : "//item.jd.com/10355532042.html",
+            "price" : "115.00",
+            "commit_num" : "2.7万+",
+            "shop_name" : "关爱心数码专营店",
+            "shop_url" : "//mall.jd.com/index-137905.html"
+        }, 
+        {
+            "title" : "TETC 世纪星U5 移动4G 手机智能手机  5S外观 双卡双待 土豪金",
+            "url" : "//item.jd.com/1548027165.html",
+            "price" : "299.00",
+            "commit_num" : "1.5万+",
+            "shop_name" : "世纪星手机旗舰店",
+            "shop_url" : "//mall.jd.com/index-129349.html"
+        }
+    ],
+    "update_time" : "2018-04-07 16:44:31"
+}
